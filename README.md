@@ -6,5 +6,5 @@ Navegue até o diretório do programa com o comando cd:
 ### $ cd diretorio/
 
 Digite os comandos abaixo dentro do diretório do programa em .c:
-### $ gcc 'prog.c' -o prog
-### $ ./prog
+### $ gcc prog.c -o prog //compila
+### $ ./prog //executa
